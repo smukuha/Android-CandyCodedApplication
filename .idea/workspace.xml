@@ -173,14 +173,22 @@
       <option name="project" value="LOCAL" />
       <updated>1602359081382</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create mapIntent">
+      <created>1602361462475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602361462506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Override onOptionsItemSelected()" />
     <MESSAGE value="Override onOptionsItemSelected" />
     <MESSAGE value="updated intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated intent" />
+    <MESSAGE value="create mapIntent" />
+    <option name="LAST_COMMIT_MESSAGE" value="create mapIntent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602354276350">
@@ -191,34 +199,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1602336606628" />
-    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2" timestamp="1602359073501">
+    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2" timestamp="1602361454985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602359073501" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602361307230">
+    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602361454985" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602362423640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602361307230" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602361307230">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602362423640" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602362423640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602361307230" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602361307230">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602362423640" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602362423640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602361307230" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602361307230">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602362423640" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602362423640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602361307230" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602362423640" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1602357099296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602357099296" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602359091305">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602361469565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602359091305" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602361469565" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602350997849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
