@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602355643491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Override onOptionsItemSelected">
+      <created>1602357149899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602357149899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,34 +178,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1602336606628" />
-    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2" timestamp="1602355639206">
+    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2" timestamp="1602357146280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602355639206" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602354934196">
+    <state x="201" y="27" width="963" height="701" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602357146280" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602358868027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602354934196" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602354934196">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602358868027" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602358868027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602354934196" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602354934192">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602358867989" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602358867811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602354934192" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602354934196">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602358867811" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602358868027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602354934196" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602358868027" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1602357099296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602357099296" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602355319886">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602357164408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602355319886" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602357164408" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602350997849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
